@@ -14,6 +14,7 @@ var contract = (function(module) {
 
   // Planned for future features, logging, etc.
   function Provider(provider) {
+    
     this.provider = provider;
   }
 
